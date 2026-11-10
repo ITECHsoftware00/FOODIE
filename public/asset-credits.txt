@@ -1,0 +1,10 @@
+Foodie demo imagery: Unsplash image CDN.
+hero.jpg and bowl.jpg: photo-1512621776951-a57141f2eefd
+burger.jpg: photo-1568901346375-23c9450c58cd
+pizza.jpg: photo-1579751626657-72bc17010498
+salmon.jpg: photo-1467003909585-2f8a72700288
+pasta.jpg: photo-1473093226795-af9932fe5856
+pancakes.jpg: photo-1528207776546-365bb710ee93
+Images illustrate sample dishes; they do not represent real participating kitchens.
+Jost typeface: Google Fonts, locally hosted. https://fonts.google.com/specimen/Jost
+MotionSites Sky Cookie: visual inspiration only; premium prompt not accessed.
